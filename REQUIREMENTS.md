@@ -32,7 +32,7 @@ Design, build, and demonstrate a desk-scale 4-DOF SCARA (Selective Compliance Ar
 | Vertical (Z) travel | ~80 mm | Sufficient for pick clearance |
 | Repeatability target | ±1.0 mm | Demonstrable with simple tests |
 | Workspace footprint | ~100 × 100 mm base | Fits on desk corner |
-| Max joint speed | ~180°/s | realistic, non-aggressive motion |
+| Max joint speed | ~180°/s | Realistic, non-aggressive motion |
 
 ## 4. Constraints
 
