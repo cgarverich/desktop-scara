@@ -30,11 +30,11 @@ Design, build, and demonstrate a 4-DOF SCARA arm capable of autonomous vision-gu
 ## Repository Structure
 ```
 desktop-scara/
-├── README.md                  ← you are here
+├── README.md                  ← Documents
 ├── REQUIREMENTS.md            ← formal requirements document
 ├── PROJECT_NOTEBOOK.md        ← running log of decisions and progress
 ├── docs/                      ← writeups, math derivations, lessons learned
-│   ├── kinematics.md
+│   ├── kinematics.md          ← I am here
 │   ├── motor_sizing.md
 │   └── lessons_learned.md
 ├── matlab/                    ← Phase 1: kinematic modeling & simulation
