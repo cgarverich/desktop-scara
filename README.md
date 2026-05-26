@@ -34,7 +34,7 @@ desktop-scara/
 ├── REQUIREMENTS.md            ← formal requirements document
 ├── PROJECT_NOTEBOOK.md        ← running log of decisions and progress
 ├── docs/                      ← writeups, math derivations, lessons learned
-│   ├── kinematics.md          ← I am here
+│   ├── kinematics.md         
 │   ├── motor_sizing.md
 │   └── lessons_learned.md
 ├── matlab/                    ← Phase 1: kinematic modeling & simulation
